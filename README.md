@@ -45,3 +45,4 @@
 + MNIST-360
 
 ![Table of results](results.png)
+![GCL results](gcl.png)
