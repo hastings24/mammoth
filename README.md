@@ -1,4 +1,5 @@
 # Mammoth - An Extendible (General) Continual Learning Framework for Pytorch
+[Original paper](https://arxiv.org/abs/2004.07211)
 
 <p align="center">
   <img width="112" height="112" src="seq.gif">
@@ -44,4 +45,3 @@
 + MNIST-360
 
 ![Table of results](results.png)
-[Original paper](https://arxiv.org/abs/2004.07211)
