@@ -42,3 +42,6 @@
 **General Continual Learning setting**
 
 + MNIST-360
+
+![Table of results](results.png)
+[Original paper](https://arxiv.org/abs/2004.07211)
